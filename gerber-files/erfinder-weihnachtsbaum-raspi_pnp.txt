@@ -1,0 +1,54 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=erfinder-weihnachtsbaum-raspi
+*Date=17:40:55
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;37.6682;-2.07442;0;Bottom;Copper Fill18
+2;220;THT;30.042;-39.3649;90;Bottom;R2
+3;;;39.5224;-102.557;0;Bottom;Copper Fill2
+4;;;48.768;-104.259;0;Bottom;Copper Fill1
+5;;;25.1968;-22.0642;0;Bottom;Copper Fill14
+6;;;43.3832;-73.296;0;Bottom;Copper Fill5
+7;;;59.2328;-42.1048;0;Bottom;Copper Fill15
+8;;5 mm [THT];45.2818;-31.166;0;Bottom;LED11
+9;;5 mm [THT];13.5318;-21.006;0;Bottom;LED7
+10;;5 mm [THT];45.2818;-51.486;0;Bottom;LED10
+11;;5 mm [THT];77.0318;-21.006;0;Bottom;LED6
+12;;;82.55;-21.0482;0;Bottom;Copper Fill16
+13;;5 mm [THT];56.133;-67.3049;90;Bottom;LED3
+14;;5 mm [THT];65.023;-44.4448;90;Bottom;LED5
+15;;;37.7952;-79.8238;0;Bottom;Copper Fill4
+16;;;43.4086;-33.0878;0;Bottom;Copper Fill9
+17;;;56.0832;-77.9188;0;Bottom;Copper Fill3
+18;220;THT;45.282;-41.9049;90;Bottom;R10
+19;;;10.1854;-20.6672;0;Bottom;Copper Fill17
+20;;THT;44.012;-6.34495;-90;Bottom;J1
+21;220;THT;37.662;-62.2249;90;Bottom;R8
+22;;;21.59;-42.6382;0;Bottom;Copper Fill12
+23;;;31.9278;-43.5018;0;Bottom;Copper Fill13
+24;;5 mm [THT];45.2818;-102.174;180;Bottom;LED1
+25;220;THT;40.202;-101.595;90;Bottom;R4
+26;;5 mm [THT];45.2818;-76.886;0;Bottom;LED9
+27;220;THT;45.282;-21.5849;90;Bottom;R11
+28;220;THT;23.692;-20.3149;0;Bottom;R7
+29;220;THT;66.872;-20.3149;180;Bottom;R6
+30;;;38.6842;-69.994;0;Bottom;Copper Fill6
+31;;;63.4238;-53.3316;0;Bottom;Copper Fill8
+32;220;THT;64.332;-33.0149;90;Bottom;R5
+33;;;37.6936;-62.2216;0;Bottom;Copper Fill7
+34;;5 mm [THT];33.161;-67.3049;-90;Bottom;LED8
+35;;5 mm [THT];25.541;-44.4451;-90;Bottom;LED2
+36;;;72.0344;-43.451;0;Bottom;Copper Fill10
+37;;;47.1678;-34.7388;0;Bottom;Copper Fill11
+38;220;THT;45.282;-66.0349;90;Bottom;R9
+39;220;THT;55.442;-57.1449;90;Bottom;R3
